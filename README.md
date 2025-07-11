@@ -5,18 +5,6 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository!
 ## Introduction
 This repository contains my journey of learning and practicing Data Structures and Algorithms through Striver's A to Z series. I will be documenting my progress, challenges, and solutions as I go through various concepts and problems.
 
-## Topics Covered
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Hash Tables
-- Sorting Algorithms
-- Searching Algorithms
-- Dynamic Programming
-
 ## Resources
 I am following Striver's A to Z series for learning DSA
 
